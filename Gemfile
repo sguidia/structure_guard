@@ -29,6 +29,8 @@ gem 'simple_form'
 # Cocoon
 gem 'cocoon'
 
+gem 'bcrypt', '~> 3.1.11'
+
 # Bcrypt
 gem 'bcrypt-ruby', require: 'bcrypt'
 

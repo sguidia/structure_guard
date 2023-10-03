@@ -226,7 +226,7 @@ PLATFORMS
 	x86_64-linux
 
 DEPENDENCIES
-  awesome_print
+  awesome_print  
   bcrypt-ruby
   bootstrap-datepicker-rails (~> 1.1.1.9)
   cocoon
