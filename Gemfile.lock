@@ -222,7 +222,7 @@ GEM
       execjs (>= 0.3.0, < 3)
 
 PLATFORMS
-  ruby
+	ruby
 	x86_64-linux
 
 DEPENDENCIES
